@@ -1,6 +1,6 @@
 {
   "name": "mixin-messenger-utils",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A front-end utils for Mixin Messenger webview",
   "main": "dist/index.js",
   "repository": "git@github.com:baizhiheizi/mixin-messenger-utils.git",
