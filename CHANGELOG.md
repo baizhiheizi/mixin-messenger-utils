@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.4](https://github.com/baizhiheizi/mixin-messenger-utils/compare/v0.1.3...v0.1.4) (2021-09-05)
+
+
+### Bug Fixes
+
+* **share:** encode action ([393104e](https://github.com/baizhiheizi/mixin-messenger-utils/commit/393104e6b248138fdd4168295d520f29b4402d8e))
+
 ### [0.1.3](https://github.com/baizhiheizi/mixin-messenger-utils/compare/v0.1.2...v0.1.3) (2021-04-16)
 
 
