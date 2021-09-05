@@ -14,7 +14,7 @@ export const shareMixinAppCard = (params: {
   fail?: () => any;
 }) => {
   const { data, success, fail } = params;
-  data.action = encodeURIComponent(data.action);
+  data.action = encodeURI(data.action);
   if (mixinContext.platform) {
     location.replace(
       `mixin://send?category=app_card&data=${encodeURIComponent(
